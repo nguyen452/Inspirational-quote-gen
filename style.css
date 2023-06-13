@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+hr {
+    border: 2px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+p {
+    font-size: 16px;
+    text-align: center;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+
+}
+#quotes-box{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+}
